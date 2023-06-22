@@ -163,6 +163,7 @@ nav {
 /* Generales para el aside */
 aside {
   width: 360px;
+  background-color: var(--white);
   box-sizing: border-box;
   position: absolute;
   right: 0;
@@ -354,7 +355,7 @@ aside {
     display: none;
   }
 
-  .product-detail {
+  aside {
     width: 100%;
   }
 
